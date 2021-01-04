@@ -1,5 +1,5 @@
 # installing_hydra_on_mac_os
-Commands needed to install Hashcat on Mac OS
+Commands needed to install Hydra on Mac OS
 
 
 Install Homebrew:
